@@ -1,5 +1,6 @@
 {
   "name": "page-transition-sample",
+  "homepage" : "http://likeraichu.github.io/myapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
