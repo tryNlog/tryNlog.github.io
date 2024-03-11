@@ -1,4 +1,220 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[세상이 더 투명해지길 바라며 개발하고 배우는 김현우의 블로그]]></description><link>https://github.com/LikeRaichu</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Mar 2024 08:56:28 GMT</lastBuildDate><item><title><![CDATA[테스트 및 배포]]></title><description><![CDATA[📅 2024-03-07 👀 이슈 1️⃣ 글을 포스팅한 후 재배포 하였는데 갱신된 페이지가 잠깐 떴다가 바로 기존 페이지로 돌아갔다. 2️⃣ 테스트를 위해 기존에 notion의 페이지 그대로 markdown으로 긁어 포스팅 해 보았는데, notion…]]></description><link>https://github.com/LikeRaichu/cycle-test/</link><guid isPermaLink="false">https://github.com/LikeRaichu/cycle-test/</guid><pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;📅 2024-03-07&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[세상이 더 투명해지길 바라며 개발하고 배우는 김현우의 블로그]]></description><link>https://github.com/LikeRaichu</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 11 Mar 2024 11:53:36 GMT</lastBuildDate><item><title><![CDATA[내 블로그 분석]]></title><description><![CDATA[내 블로그 분석 📅 2024-03-04 👀 분석 1️⃣ 기존 페이지는 교육과정 내 실습을 따라 만들다 보니 블로그의 형태가 아니다. 2️⃣ 취업 준비 때문에라도 많은 시간을 할애할 수는 없다, 데드라인은 3월 8일이다.…]]></description><link>https://github.com/LikeRaichu/cycle-review/</link><guid isPermaLink="false">https://github.com/LikeRaichu/cycle-review/</guid><pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;내 블로그 분석&lt;/h1&gt;
+&lt;h1&gt;📅 2024-03-04&lt;/h1&gt;
+&lt;h2&gt;👀 분석&lt;/h2&gt;
+&lt;p&gt;1️⃣ 기존 페이지는 교육과정 내 실습을 따라 만들다 보니 블로그의 형태가 아니다.&lt;br&gt;
+2️⃣ 취업 준비 때문에라도 많은 시간을 할애할 수는 없다, 데드라인은 3월 8일이다.&lt;br&gt;
+3️⃣ 기존 블로그의 프레임워크는 React.js이다. DB는 연동 안되어있고 그냥 로컬 저장소에 있는 사진을 띄우는 정도의 단일 페이지이다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;💭 아이디어&lt;/h2&gt;
+&lt;p&gt;검색 결과 블로그용 테마 제공해주는 서비스가 있었다! 초기 작업량을 크게 줄일 수 있을 것으로 보인다.&lt;br&gt;
+위와 같은 서비스는 Jekyll이 유명하고 Github page 또한 Jekyll을 기반으로 구성되어 적합하나, Jekyll은 Ruby를 기반으로 작성되어 새롭게 학습 후 개발하는 것이 시간적으로 비효율이라 생각했다.&lt;br&gt;
+나는 React.js를 사용한 웹페이지 개발에 익숙하여 &lt;a href=&quot;https://www.gatsbyjs.com/starters/?v=2&quot;&gt;Gatsby&lt;/a&gt;가 테마를 기반으로 블로그를 개인화 하기에 용이할 것으로 생각했다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;💼 산출물&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.notion.so/Gatsby-starter-blog-25bc5f1fa1f147a3ba0ca57174d18cd4?pvs=21&quot;&gt;Gatsby-starter-blog 분석&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;&lt;strong&gt;📅 2024-03-11&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;👀 분석&lt;/h2&gt;
+&lt;p&gt;1️⃣ 프로필 사진의 머리 부분이 잘린다.
+2️⃣ 흰 바탕에 파란 하이퍼링크, 얇은 두께의 검은 폰트, 가독성이 좋지 않다.
+3️⃣ 포스팅 내 작업물, 산출물들의 링크가 Notion이라 조회가 불가능하다.
+4️⃣ 페이지 안에 페이지, 즉 포스팅 안에 다른 포스팅으로 연결되는 링크를 넣는 것이 맞는지 생각해 봐야한다. 이는 글의 카테고리 처럼 사용할 수 있을 것이라 생각했다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[CS50] Week 0 기록]]></title><description><![CDATA[Week 0 - 컴퓨터 사이언스 컴퓨팅적 사고 BIt, binary 1 or 0 / on or of(binary digit, bit) 로 정보를 기록 및 표기 전기 신호로 작동하는 컴퓨터에 적합한 방식이다. binary에서 중요한 것은 순열이다.…]]></description><link>https://github.com/LikeRaichu/studyLog/CS50/week0/</link><guid isPermaLink="false">https://github.com/LikeRaichu/studyLog/CS50/week0/</guid><pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Week 0 - 컴퓨터 사이언스&lt;/h1&gt;
+&lt;h3&gt;컴퓨팅적 사고&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;BIt, binary&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1 or 0 / on or of(binary digit, bit) 로 정보를 기록 및 표기&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;전기 신호로 작동하는 컴퓨터에 적합한 방식이다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;binary에서 중요한 것은 순열이다. 1과 0의 순서에 따라 표현하는 정보가 달라진다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4b3ab2c5541ab212f91e17b1b8c220f8/b9460/binary1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 40.50632911392405%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABcRAAAXEQHKJvM/AAABw0lEQVR42kWRzUuUURTGfzbD9I46zrxOjs7n6yRqaSNqDiSErtzVKmbXol0t/QP8D6JdGzciiAhWtCgkC5rMjxSkFi6ENoqQLSISyYgWnc6584YXHs5z73POc+85F3lDn6ySOVomvzhDr9TpcnjPkGol2SSzN0dx8zGBcXdmmuV8oHP1IWWrddprevm1Tgld6TQJDTcJlyZUf9RJhdt2RdbIyTq+7DDG+Rq97JN0NXWu8HebgvLo5CSeCE1TQ7Q4cYvR0DBWqxEpFIgrv3TyinY1HFbeVEyT07po7YbTkA36OViiW7mfSJDW2JZrxNY/b7n+6D555XZ7m6KqGL81TlV+06e84kWZ0DgYJN3Fya9PGOT4KYG109xMl0bP9yiaqC2PzE67NvOh4Yji9t0proWGA7EIdzQGnS1k7PWnL7mKHDijXGhIIuaS49aWbDujHsVFy1Hc0zmlZJ+K8lT0Ag/cgONubB3yWXPlk3uBFwR4JpaS+OE8xuSb+6hWm7EiYvOUXX39RuNTBjqc9j9G5KP+sqxRPlwg+/05ReXZL8uUTlf0tndUtDB3NE/+7EUDP5+RtTPTLOdshYLVWO2haWuU/wEgJZS8cvPTEQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;binary의 정보 표현&quot;
+        title=&quot;&quot;
+        src=&quot;/static/4b3ab2c5541ab212f91e17b1b8c220f8/f058b/binary1.png&quot;
+        srcset=&quot;/static/4b3ab2c5541ab212f91e17b1b8c220f8/c26ae/binary1.png 158w,
+/static/4b3ab2c5541ab212f91e17b1b8c220f8/6bdcf/binary1.png 315w,
+/static/4b3ab2c5541ab212f91e17b1b8c220f8/f058b/binary1.png 630w,
+/static/4b3ab2c5541ab212f91e17b1b8c220f8/40601/binary1.png 945w,
+/static/4b3ab2c5541ab212f91e17b1b8c220f8/78612/binary1.png 1260w,
+/static/4b3ab2c5541ab212f91e17b1b8c220f8/b9460/binary1.png 1641w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;우리는 일상생활에서 십진법을 쓰기 때문에 일의 자리, 백의 자리 등의 순열에 익숙하다. 하지만 이진법도 자릿수를 나타낼 수 있다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b85dbf3a2d10874fd8f07a08196fb5a3/6b95e/binary2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 35.44303797468354%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABcRAAAXEQHKJvM/AAABPklEQVR42m2Ru05CQRCGPxBBOBzgsAoY4XAVASGamFhp78v4MLa2djY2dMag0RhiNMYYezs7tdF2nTkuiUY3+TL/zuxlLthz+h8Tqi8nNOw9K3bqtNhfWmKRvqCm+vmY5ky/jql/nhLaG1q8n9EGFvJ5ArEJISMU1SekhcDZlFAQPCHptC/MhWF0Zv5tzCYPR6zppU6HnD6azbIotuD7GM+jVC7jiW8pk6FSrZJWn+6NwVcbBOR7PYx+Mj1kF/tITTalZJIB30t/3XAZpZ3WrOPCyGWvayiUows+XdVS8nD2YLYb0tTgwT6pZUPPTkgolSJ99VlLTP172+T0XFiitTOKSmVrQKhV2ifWsXfUtX7XQ1wfjdMxp+Nub1wc19tIux7G5a0+MuVVeykTuqZjr2j/QSb3r/7JbRSrSUWNL68TbyGDyZ/BAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;binary의 정보 체계&quot;
+        title=&quot;&quot;
+        src=&quot;/static/b85dbf3a2d10874fd8f07a08196fb5a3/f058b/binary2.png&quot;
+        srcset=&quot;/static/b85dbf3a2d10874fd8f07a08196fb5a3/c26ae/binary2.png 158w,
+/static/b85dbf3a2d10874fd8f07a08196fb5a3/6bdcf/binary2.png 315w,
+/static/b85dbf3a2d10874fd8f07a08196fb5a3/f058b/binary2.png 630w,
+/static/b85dbf3a2d10874fd8f07a08196fb5a3/40601/binary2.png 945w,
+/static/b85dbf3a2d10874fd8f07a08196fb5a3/78612/binary2.png 1260w,
+/static/b85dbf3a2d10874fd8f07a08196fb5a3/6b95e/binary2.png 1458w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;컴퓨터는 이런 숫자 표기법에 다양한 정보를 연결시켜 동작할 수 있다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Byte&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;8bit = 1byte&lt;/li&gt;
+&lt;li&gt;255가지의 정보를 담을 수 있다고 볼 수 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ASCII&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;American Standard Code for Information Interchange의 약자로써 평균적으로 7비트를 사용하는 표현식이다.(Ex 01000001, 65, A)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e097093a0b8c3c056423a850d94bd912/d0c0e/asciiTable.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.35443037974683%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsTAAALEwEAmpwYAAACW0lEQVR42j2Ui5KiUAxE+f9vm6pR17eCPAVREQV0HB/Z03dxrUoBN0mn08nVC8PQtuu1lXluTdva9Xq1ruvcUz7Z2vet5JkFgQWbjfl8h1jM+0Z+8gN8j99f85Iss5aDDIuSxKIosuPxaM/n0zJ8Alzhaw4HqzH5VWDL+SFNLSbHByzjmyTzfF4u47HFs5nNFguXUNe13W43S0lYcvYHf7Pb2YlCq9XKJtOpRRTJxRawOTHrycTsw7AjKCXAJ6BpGtPv9XrZdrv9z7C7XKzBVFAgJXkZTMVWbUdgvO9380S5A0iA8+XSsRKoNIzj2Db4xlRvYHeGufRaAyiGPufyqeCSLuwD2GDSYAHgjNbFTCYwMRwTXANYYVPanc3nlmogPMVQgwpo27Uc0kIHqxw2qrTf751+ajmhkDQbDodWlaXt0NEBkpzCssDUrgBDyNjPj3kBB2o5IkiBIe8lyXfoaxUWsBgAeCoKKwGUfktpTlyhtYKIY0mcA3RDgaWcEU6BFCRLx7DfMU2xo926qtwqiZUk2tNZhjTKiwB1La8AaNAoGI3s6/vbhoOBjXhX6xrKAjA3FFhX7KEKSkMNpYDIptfeR3s3FC3zTTcA0CnJGsb5fHYti2nSL+71dHIMNUSB5Dx3FBRDnamAY6gVaNEkFhMEL7iCuiXv9/sfGK181uYEoNOV2Jhn3jOUhsvPYqt6q0o4ptDWFDVN/bSTWh2nITsoQH1r8hk5Bf6kv64ROPZ4mKd7+6DFCwkHNBLDlj8J/dR6BYj0vLNKN5Zd30esRoK0b99NHjLtfm9/AQw2BEF+D7RLAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;binary의 정보 표현&quot;
+        title=&quot;&quot;
+        src=&quot;/static/e097093a0b8c3c056423a850d94bd912/f058b/asciiTable.png&quot;
+        srcset=&quot;/static/e097093a0b8c3c056423a850d94bd912/c26ae/asciiTable.png 158w,
+/static/e097093a0b8c3c056423a850d94bd912/6bdcf/asciiTable.png 315w,
+/static/e097093a0b8c3c056423a850d94bd912/f058b/asciiTable.png 630w,
+/static/e097093a0b8c3c056423a850d94bd912/d0c0e/asciiTable.png 715w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;대부분의 하드웨어에 내장되어 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Unicode&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ASCII의 상위 집합이라 볼 수 있음&lt;/li&gt;
+&lt;li&gt;대부분 8바이트를 사용하며 데이터 크기의 확장에 따라 적합한 16진수(BASE-16)을 사용&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;RGB&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;위의 ASCII, Unicode와 같은 표현식이며 색상에 대한 표현식이다.&lt;/li&gt;
+&lt;li&gt;Red, Green, Blue를 각각 1바이트(8비트)씩 할당해 255, 255, 255의 색 조합을 할 수 있게 만들었다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;그렇다면 만약 같은 값을 가진 표현식을 어떻게 구분해야 할까?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;프로그래밍을 한 주체가 해석 가능하도록 표현식마다 단서를 붙여주어야 함&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Algorithm&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;0 주차 강의에서 가장 재미있는 부분이었다.&lt;/li&gt;
+&lt;li&gt;알고리즘이란 일상생활에서의 알고리즘, 예를 들면 도서관에서 책을 찾는 행위 같은 논리의 흐름을 컴퓨터에서도 똑같이 행동할 수 있는 논리 구조를 구현하는 것이다.
+&lt;ul&gt;
+&lt;li&gt;도서관의 예시를 계속 진행하여 설명해보겠다.&lt;/li&gt;
+&lt;li&gt;내가 단테의 신곡을 찾고 있다고 가정했을 때 도서관의 입구에서 보이는 책장부터 하나하나 책을 꺼내가며 뒤져볼 수 있을 것이다.&lt;/li&gt;
+&lt;li&gt;하지만 그것은 효율적이지 않다, 색인에 따라 적합한 자음이 적혀있는 책장으로 가서 찾기 시작한다면 더 효율적일 것이다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;위의 예시처럼 목표에 도달하기 까지 일련의 규칙이 있다면, 이를 통해 더 효율적이고, 정확하게 목표에 도달할 수 있게 만들어야 효율적 알고리즘을 만들었다고 할 수 있다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Pseudocode&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pseudocode, 의사코드라고도 부르며 알고리즘을 구현하기 전 우리의 언어로 적어보는 코드이다.&lt;/li&gt;
+&lt;li&gt;Example. 도서관에서 단테의 신곡 찾기
+&lt;ul&gt;
+&lt;li&gt;도서관에 가기&lt;/li&gt;
+&lt;li&gt;책의 제목의 첫번째 자음을 보기&lt;/li&gt;
+&lt;li&gt;책장이 첫번째 자음이 적혀있는 책장인지 판단하기 - Loop
+&lt;ul&gt;
+&lt;li&gt;아닐 시 다음 책장에서 위의 작업으로 - NO / Bool&lt;/li&gt;
+&lt;li&gt;맞을 시 현재 책장에서 아래 작업으로 - YES / Bool&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;작가 이름을 보기&lt;/li&gt;
+&lt;li&gt;작가 이름의 첫번째 자음과 맞는 칸인지 확인하기
+&lt;ul&gt;
+&lt;li&gt;아닐 시 다음 칸에서 위의 작업으로&lt;/li&gt;
+&lt;li&gt;맞을 시 현재 책장에서 아래 작업으로&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;책 꺼내기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[테스트 및 배포]]></title><description><![CDATA[📅 2024-03-07 👀 이슈 1️⃣ 글을 포스팅한 후 재배포 하였는데 갱신된 페이지가 잠깐 떴다가 바로 기존 페이지로 돌아갔다. 2️⃣ 테스트를 위해 기존에 notion의 페이지 그대로 markdown으로 긁어 포스팅 해 보았는데, notion…]]></description><link>https://github.com/LikeRaichu/cycle-test/</link><guid isPermaLink="false">https://github.com/LikeRaichu/cycle-test/</guid><pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;📅 2024-03-07&lt;/h1&gt;
 &lt;h2&gt;👀 이슈&lt;/h2&gt;
 &lt;p&gt;1️⃣ 글을 포스팅한 후 재배포 하였는데 갱신된 페이지가 잠깐 떴다가 바로 기존 페이지로 돌아갔다.&lt;br&gt;
 2️⃣ 테스트를 위해 기존에 notion의 페이지 그대로 markdown으로 긁어 포스팅 해 보았는데, notion에 나타나는 내 글의 모습과 너무나도 달라진 못생긴 모습에 당황스러웠다.&lt;br&gt;
@@ -8,7 +224,7 @@
 &lt;h2&gt;💭 해결&lt;/h2&gt;
 &lt;p&gt;1️⃣ 콘솔을 확인하니 각각 Minified React error #425 / 418 / 423 에러였다.&lt;br&gt;
 에러 코드를 검색한 결과 서버에서 랜더링한 HMTL과 같지 않다. 였는데, 정말 간단히 해결됐다. 10분 정도 뒤에 자동으로 해결됐던 것이다.&lt;br&gt;
-알아보니 github page에 배포할 때 10분 정도 시간이 걸린다고 한다. 참고 기다리자.&lt;/p&gt;
+알아보니 github page에 배포할 때 10분 정도 시간이 걸린다고 한다. 참고 기다리자...&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;🚢 배포 이력&lt;/h2&gt;
 &lt;p&gt;첫 번째 배포 - 2024.03.08&lt;/p&gt;
@@ -44,19 +260,7 @@ ghost.io라는 서비스를 거쳐 github pages로 푸시해야 한다는 점이
 &lt;h2&gt;🔎 얻게 된 지식&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.notion.so/SEO-1742189ebd6f44749def96c4ca5b6751?pvs=21&quot;&gt;SEO&lt;/a&gt;&lt;br&gt;
 &lt;a href=&quot;https://www.notion.so/Linked-Data-4a57a1539f1d407090289ef4c732f208?pvs=21&quot;&gt;Linked Data&lt;/a&gt;&lt;br&gt;
-&lt;a href=&quot;https://www.notion.so/Netlify-174f2c8391ec4d57a67aebf0ce7c4f5a?pvs=21&quot;&gt;Netlify&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[내 블로그 분석]]></title><description><![CDATA[내 블로그 분석 📅 2024-03-04 👀 분석 1️⃣ 기존 페이지는 교육과정 내 실습을 따라 만들다 보니 블로그의 형태가 아니다. 2️⃣ 취업 준비 때문에라도 많은 시간을 할애할 수는 없다, 데드라인은 3월 8일이다.…]]></description><link>https://github.com/LikeRaichu/cycle-review/</link><guid isPermaLink="false">https://github.com/LikeRaichu/cycle-review/</guid><pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;내 블로그 분석&lt;/h1&gt;
-&lt;h1&gt;📅 2024-03-04&lt;/h1&gt;
-&lt;h2&gt;👀 분석&lt;/h2&gt;
-&lt;p&gt;1️⃣ 기존 페이지는 교육과정 내 실습을 따라 만들다 보니 블로그의 형태가 아니다.&lt;br&gt;
-2️⃣ 취업 준비 때문에라도 많은 시간을 할애할 수는 없다, 데드라인은 3월 8일이다.&lt;br&gt;
-3️⃣ 기존 블로그의 프레임워크는 React.js이다. DB는 연동 안되어있고 그냥 로컬 저장소에 있는 사진을 띄우는 정도의 단일 페이지이다.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;💭 아이디어&lt;/h2&gt;
-&lt;p&gt;검색 결과 블로그용 테마 제공해주는 서비스가 있었다! 초기 작업량을 크게 줄일 수 있을 것으로 보인다.&lt;br&gt;
-위와 같은 서비스는 Jekyll이 유명하고 Github page 또한 Jekyll을 기반으로 구성되어 적합하나, Jekyll은 Ruby를 기반으로 작성되어 새롭게 학습 후 개발하는 것이 시간적으로 비효율이라 생각했다.&lt;br&gt;
-나는 React.js를 사용한 웹페이지 개발에 익숙하여 &lt;a href=&quot;https://www.gatsbyjs.com/starters/?v=2&quot;&gt;Gatsby&lt;/a&gt;가 테마를 기반으로 블로그를 개인화 하기에 용이할 것으로 생각했다.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.notion.so/Gatsby-starter-blog-25bc5f1fa1f147a3ba0ca57174d18cd4?pvs=21&quot;&gt;Gatsby-starter-blog 분석&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[드디어 첫 포스팅]]></title><description><![CDATA[개요 4차산업혁명 선도인력 양성과정에서 예시로 만들어 두었던 github.io…]]></description><link>https://github.com/LikeRaichu/first-posting/</link><guid isPermaLink="false">https://github.com/LikeRaichu/first-posting/</guid><pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;개요&lt;/h2&gt;
+&lt;a href=&quot;https://www.notion.so/Netlify-174f2c8391ec4d57a67aebf0ce7c4f5a?pvs=21&quot;&gt;Netlify&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[드디어 첫 포스팅]]></title><description><![CDATA[개요 4차산업혁명 선도인력 양성과정에서 예시로 만들어 두었던 github.io…]]></description><link>https://github.com/LikeRaichu/first-posting/</link><guid isPermaLink="false">https://github.com/LikeRaichu/first-posting/</guid><pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;개요&lt;/h2&gt;
 &lt;p&gt;4차산업혁명 선도인력 양성과정에서 예시로 만들어 두었던 &lt;a href=&quot;http://github.io&quot;&gt;github.io&lt;/a&gt; 블로그를 복원하는 작업&lt;/p&gt;
 &lt;h2&gt;목적&lt;/h2&gt;
 &lt;ol&gt;
