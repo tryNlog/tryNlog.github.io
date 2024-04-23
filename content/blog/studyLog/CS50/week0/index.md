@@ -9,7 +9,7 @@ description: "본 글에서는 대학원 입학 시점에서 부족한 컴퓨터
 
 ### 컴퓨팅적 사고
 
-- **BIt, binary**
+- **Bit, binary**
     - 1 or 0 / on or of(binary digit, bit) 로 정보를 기록 및 표기
     - 전기 신호로 작동하는 컴퓨터에 적합한 방식이다.
     - binary에서 중요한 것은 순열이다. 1과 0의 순서에 따라 표현하는 정보가 달라진다.
