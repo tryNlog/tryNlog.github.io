@@ -1,5 +1,29 @@
 /* CSS Custom Properties Definitions */
 
+@font-face {
+  font-family: 'DOSGothic';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_eight@1.0/DOSGothic.woff') format('woff');
+  font-weight: lighter;
+  font-style: normal;
+  unicode-range: U+AC00-D7A3;
+}
+
+@font-face {
+  font-family: 'EliceDigitalBaeum_Bold';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_220508@1.0/EliceDigitalBaeum_Bold.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  unicode-range: U+AC00-D7A3;
+}
+
+@font-face {
+  font-family: 'intelone-mono-font-family-regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-1@1.1/intelone-mono-font-family-regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  unicode-range: U+0041-005A, U+0061-007A, U+0030-0039, U+0020-002F, U+003A-0040, U+005B-0060, U+007B-007E;
+}
+
 :root {
   --maxWidth-none: "none";
   --maxWidth-xs: 20rem;
@@ -27,12 +51,11 @@
   --spacing-20: 5rem;
   --spacing-24: 6rem;
   --spacing-32: 8rem;
-  --fontFamily-sans: "MontserratVariable", system-ui, -apple-system,
-    BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans",
-    sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+  --fontFamily-sans: 'DOSGothic', 'intelone-mono-font-family-regular', system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI",
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
     "Noto Color Emoji";
-  --fontFamily-serif: "Merriweather", "Georgia", Cambria, "Times New Roman",
-    Times, serif;
+  --fontFamily-serif: 'EliceDigitalBaeum_Bold', 'intelone-mono-font-family-regular';
   --font-body: var(--fontFamily-serif);
   --font-heading: var(--fontFamily-sans);
   --fontWeight-normal: 400;
@@ -52,11 +75,11 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
-  --color-text: #2e353f;
+  --color-primary: #9AE66E;
+  --color-text: #ffffff;
   --color-text-light: #4f5969;
-  --color-heading: #1a202c;
-  --color-heading-black: black;
+  --color-heading: #9AE66E;
+  --color-heading-black: #9AE66E;
   --color-accent: #d1dce5;
 }
 
@@ -79,6 +102,7 @@ body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-text);
+  background-color: #2C272E;
 }
 
 footer {
@@ -249,7 +273,7 @@ a:focus {
 }
 
 .global-header {
-  margin-bottom: var(--spacing-12);
+  margin-bottom: var(--spacing-4);
 }
 
 .main-heading {
@@ -287,6 +311,10 @@ a:focus {
 .bio {
   display: flex;
   margin-bottom: var(--spacing-16);
+  border-width:thin 0px; 
+  border-style:solid;
+  padding-top: var(--spacing-4);
+  padding-bottom: var(--spacing-4);
 }
 
 .bio p {

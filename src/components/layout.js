@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import headerImage from '../images/gatsby-icon.png'
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -9,7 +10,10 @@ const Layout = ({ location, title, children }) => {
   if (isRootPath) {
     header = (
       <h1 className="main-heading">
-        <Link to="/">{title}</Link>
+        <Link to="/">
+          <img src={headerImage} alt="header" height={70} />
+          {/* {title} */}
+        </Link>
       </h1>
     )
   } else {
