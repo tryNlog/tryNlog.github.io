@@ -5,7 +5,7 @@ description: 개발 과정을 담은 페이지
 ---
 
 <aside>
-💡 **Repo 주소:** https://github.com/LikeRaichu/LikeRaichu.github.io.git
+💡 **Repo 주소:** https://github.com/tryNlog/tryNlog.github.io.git
 
 </aside>
 

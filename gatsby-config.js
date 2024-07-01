@@ -15,9 +15,9 @@ module.exports = {
       summary: `블록체인을 공부하고 있는 개발자 김현우입니다.`,
     },
     description: `세상이 더 투명해지길 바라며 개발하고 배우는 김현우의 블로그`,
-    siteUrl: `https://github.com/LikeRaichu`,
+    siteUrl: `https://github.com/tryNlog`,
     social: {
-      github: `LikeRaichu`,
+      github: `tryNlog`,
     },
   },
   plugins: [

@@ -28,7 +28,7 @@ description: "블로그 개설 이래 첫 포스팅"
 
 ## 작업
 
-[내 블로그 분석](https://likeraichu.github.io/cycle-review/)  
-[블로그 설계](https://likeraichu.github.io/cycle-design/)  
-[개발](https://likeraichu.github.io/cycle-develop/)  
+[내 블로그 분석](https://tryNlog.github.io/cycle-review/)  
+[블로그 설계](https://tryNlog.github.io/cycle-design/)  
+[개발](https://tryNlog.github.io/cycle-develop/)  
 [페이지 테스트](https://www.notion.so/224cde8a249546b6933789c9a8e35780?pvs=21)  
