@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[세상이 더 투명해지길 바라며 개발하고 배우는 김현우의 블로그]]></description><link>https://github.com/LikeRaichu</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 11 Mar 2024 11:53:36 GMT</lastBuildDate><item><title><![CDATA[내 블로그 분석]]></title><description><![CDATA[내 블로그 분석 📅 2024-03-04 👀 분석 1️⃣ 기존 페이지는 교육과정 내 실습을 따라 만들다 보니 블로그의 형태가 아니다. 2️⃣ 취업 준비 때문에라도 많은 시간을 할애할 수는 없다, 데드라인은 3월 8일이다.…]]></description><link>https://github.com/LikeRaichu/cycle-review/</link><guid isPermaLink="false">https://github.com/LikeRaichu/cycle-review/</guid><pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;내 블로그 분석&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[세상이 더 투명해지길 바라며 개발하고 배우는 김현우의 블로그]]></description><link>https://github.com/tryNlog</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 01 Jul 2024 08:16:34 GMT</lastBuildDate><item><title><![CDATA[내 블로그 분석]]></title><description><![CDATA[내 블로그 분석 📅 2024-03-04 👀 분석 1️⃣ 기존 페이지는 교육과정 내 실습을 따라 만들다 보니 블로그의 형태가 아니다. 2️⃣ 취업 준비 때문에라도 많은 시간을 할애할 수는 없다, 데드라인은 3월 8일이다.…]]></description><link>https://github.com/tryNlog/cycle-review/</link><guid isPermaLink="false">https://github.com/tryNlog/cycle-review/</guid><pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;내 블로그 분석&lt;/h1&gt;
 &lt;h1&gt;📅 2024-03-04&lt;/h1&gt;
 &lt;h2&gt;👀 분석&lt;/h2&gt;
 &lt;p&gt;1️⃣ 기존 페이지는 교육과정 내 실습을 따라 만들다 보니 블로그의 형태가 아니다.&lt;br&gt;
@@ -18,11 +18,11 @@
 &lt;p&gt;1️⃣ 프로필 사진의 머리 부분이 잘린다.
 2️⃣ 흰 바탕에 파란 하이퍼링크, 얇은 두께의 검은 폰트, 가독성이 좋지 않다.
 3️⃣ 포스팅 내 작업물, 산출물들의 링크가 Notion이라 조회가 불가능하다.
-4️⃣ 페이지 안에 페이지, 즉 포스팅 안에 다른 포스팅으로 연결되는 링크를 넣는 것이 맞는지 생각해 봐야한다. 이는 글의 카테고리 처럼 사용할 수 있을 것이라 생각했다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[CS50] Week 0 기록]]></title><description><![CDATA[Week 0 - 컴퓨터 사이언스 컴퓨팅적 사고 BIt, binary 1 or 0 / on or of(binary digit, bit) 로 정보를 기록 및 표기 전기 신호로 작동하는 컴퓨터에 적합한 방식이다. binary에서 중요한 것은 순열이다.…]]></description><link>https://github.com/LikeRaichu/studyLog/CS50/week0/</link><guid isPermaLink="false">https://github.com/LikeRaichu/studyLog/CS50/week0/</guid><pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Week 0 - 컴퓨터 사이언스&lt;/h1&gt;
+4️⃣ 페이지 안에 페이지, 즉 포스팅 안에 다른 포스팅으로 연결되는 링크를 넣는 것이 맞는지 생각해 봐야한다. 이는 글의 카테고리 처럼 사용할 수 있을 것이라 생각했다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[CS50] Week 0 기록]]></title><description><![CDATA[Week 0 - 컴퓨터 사이언스 컴퓨팅적 사고 Bit, binary 1 or 0 / on or of(binary digit, bit) 로 정보를 기록 및 표기 전기 신호로 작동하는 컴퓨터에 적합한 방식이다. binary에서 중요한 것은 순열이다.…]]></description><link>https://github.com/tryNlog/studyLog/CS50/week0/</link><guid isPermaLink="false">https://github.com/tryNlog/studyLog/CS50/week0/</guid><pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Week 0 - 컴퓨터 사이언스&lt;/h1&gt;
 &lt;h3&gt;컴퓨팅적 사고&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;BIt, binary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bit, binary&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;1 or 0 / on or of(binary digit, bit) 로 정보를 기록 및 표기&lt;/p&gt;
@@ -214,7 +214,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[테스트 및 배포]]></title><description><![CDATA[📅 2024-03-07 👀 이슈 1️⃣ 글을 포스팅한 후 재배포 하였는데 갱신된 페이지가 잠깐 떴다가 바로 기존 페이지로 돌아갔다. 2️⃣ 테스트를 위해 기존에 notion의 페이지 그대로 markdown으로 긁어 포스팅 해 보았는데, notion…]]></description><link>https://github.com/LikeRaichu/cycle-test/</link><guid isPermaLink="false">https://github.com/LikeRaichu/cycle-test/</guid><pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;📅 2024-03-07&lt;/h1&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[테스트 및 배포]]></title><description><![CDATA[📅 2024-03-07 👀 이슈 1️⃣ 글을 포스팅한 후 재배포 하였는데 갱신된 페이지가 잠깐 떴다가 바로 기존 페이지로 돌아갔다. 2️⃣ 테스트를 위해 기존에 notion의 페이지 그대로 markdown으로 긁어 포스팅 해 보았는데, notion…]]></description><link>https://github.com/tryNlog/cycle-test/</link><guid isPermaLink="false">https://github.com/tryNlog/cycle-test/</guid><pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;📅 2024-03-07&lt;/h1&gt;
 &lt;h2&gt;👀 이슈&lt;/h2&gt;
 &lt;p&gt;1️⃣ 글을 포스팅한 후 재배포 하였는데 갱신된 페이지가 잠깐 떴다가 바로 기존 페이지로 돌아갔다.&lt;br&gt;
 2️⃣ 테스트를 위해 기존에 notion의 페이지 그대로 markdown으로 긁어 포스팅 해 보았는데, notion에 나타나는 내 글의 모습과 너무나도 달라진 못생긴 모습에 당황스러웠다.&lt;br&gt;
@@ -230,8 +230,8 @@
 &lt;p&gt;첫 번째 배포 - 2024.03.08&lt;/p&gt;
 &lt;h2&gt;🔎 진행&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.notion.so/28b0e14288b8423d83076531981cecb6?pvs=21&quot;&gt;포스팅 하기&lt;/a&gt;&lt;br&gt;
-&lt;a href=&quot;https://www.notion.so/8ac5efc750de4d4e8d25575155ef8cc0?pvs=21&quot;&gt;프로필 변경&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[개발]]></title><description><![CDATA[📅 2024-03-06 👀 이슈 1️⃣ 초기에 골랐던 Gatsby-starter-ghost에는 치명적인 단점이 있었다. ghost.io라는 서비스를 거쳐 github pages…]]></description><link>https://github.com/LikeRaichu/cycle-develop/</link><guid isPermaLink="false">https://github.com/LikeRaichu/cycle-develop/</guid><pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;aside&gt;
-💡 **Repo 주소:** https://github.com/LikeRaichu/LikeRaichu.github.io.git
+&lt;a href=&quot;https://www.notion.so/8ac5efc750de4d4e8d25575155ef8cc0?pvs=21&quot;&gt;프로필 변경&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[개발]]></title><description><![CDATA[📅 2024-03-06 👀 이슈 1️⃣ 초기에 골랐던 Gatsby-starter-ghost에는 치명적인 단점이 있었다. ghost.io라는 서비스를 거쳐 github pages…]]></description><link>https://github.com/tryNlog/cycle-develop/</link><guid isPermaLink="false">https://github.com/tryNlog/cycle-develop/</guid><pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;aside&gt;
+💡 **Repo 주소:** https://github.com/tryNlog/tryNlog.github.io.git
 &lt;/aside&gt;
 &lt;h1&gt;📅 2024-03-06&lt;/h1&gt;
 &lt;h2&gt;👀 이슈&lt;/h2&gt;
@@ -245,7 +245,7 @@ ghost.io라는 서비스를 거쳐 github pages로 푸시해야 한다는 점이
 &lt;hr&gt;
 &lt;h2&gt;🔎 진행&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.notion.so/Github-pages-ebf20046ab6448839c68f3b5ad634311?pvs=21&quot;&gt;Github pages 작업&lt;/a&gt;&lt;br&gt;
-&lt;a href=&quot;https://www.notion.so/Gatsby-01acfdccb35b4eb3b7713b555d489d21?pvs=21&quot;&gt;Gatsby 구동&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[블로그 설계]]></title><description><![CDATA[📅 2024-03-05 👀 이슈 1️⃣ Github.io repository에 기존 작업물을 초기화 할 필요가 있다. 2️⃣ 디자인을 위해 조사를 해야 하지만 그 정도의 시간, 물적 자원이 부족하다. 3️⃣ 현재 Notion…]]></description><link>https://github.com/LikeRaichu/cycle-design/</link><guid isPermaLink="false">https://github.com/LikeRaichu/cycle-design/</guid><pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;📅 2024-03-05&lt;/h1&gt;
+&lt;a href=&quot;https://www.notion.so/Gatsby-01acfdccb35b4eb3b7713b555d489d21?pvs=21&quot;&gt;Gatsby 구동&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[블로그 설계]]></title><description><![CDATA[📅 2024-03-05 👀 이슈 1️⃣ Github.io repository에 기존 작업물을 초기화 할 필요가 있다. 2️⃣ 디자인을 위해 조사를 해야 하지만 그 정도의 시간, 물적 자원이 부족하다. 3️⃣ 현재 Notion…]]></description><link>https://github.com/tryNlog/cycle-design/</link><guid isPermaLink="false">https://github.com/tryNlog/cycle-design/</guid><pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;📅 2024-03-05&lt;/h1&gt;
 &lt;h2&gt;👀 이슈&lt;/h2&gt;
 &lt;p&gt;1️⃣ &lt;a href=&quot;http://Github.io&quot;&gt;Github.io&lt;/a&gt; repository에 기존 작업물을 초기화 할 필요가 있다.&lt;br&gt;
 2️⃣ 디자인을 위해 조사를 해야 하지만 그 정도의 시간, 물적 자원이 부족하다.&lt;br&gt;
@@ -260,7 +260,7 @@ ghost.io라는 서비스를 거쳐 github pages로 푸시해야 한다는 점이
 &lt;h2&gt;🔎 얻게 된 지식&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.notion.so/SEO-1742189ebd6f44749def96c4ca5b6751?pvs=21&quot;&gt;SEO&lt;/a&gt;&lt;br&gt;
 &lt;a href=&quot;https://www.notion.so/Linked-Data-4a57a1539f1d407090289ef4c732f208?pvs=21&quot;&gt;Linked Data&lt;/a&gt;&lt;br&gt;
-&lt;a href=&quot;https://www.notion.so/Netlify-174f2c8391ec4d57a67aebf0ce7c4f5a?pvs=21&quot;&gt;Netlify&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[드디어 첫 포스팅]]></title><description><![CDATA[개요 4차산업혁명 선도인력 양성과정에서 예시로 만들어 두었던 github.io…]]></description><link>https://github.com/LikeRaichu/first-posting/</link><guid isPermaLink="false">https://github.com/LikeRaichu/first-posting/</guid><pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;개요&lt;/h2&gt;
+&lt;a href=&quot;https://www.notion.so/Netlify-174f2c8391ec4d57a67aebf0ce7c4f5a?pvs=21&quot;&gt;Netlify&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[드디어 첫 포스팅]]></title><description><![CDATA[개요 4차산업혁명 선도인력 양성과정에서 예시로 만들어 두었던 github.io…]]></description><link>https://github.com/tryNlog/first-posting/</link><guid isPermaLink="false">https://github.com/tryNlog/first-posting/</guid><pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;개요&lt;/h2&gt;
 &lt;p&gt;4차산업혁명 선도인력 양성과정에서 예시로 만들어 두었던 &lt;a href=&quot;http://github.io&quot;&gt;github.io&lt;/a&gt; 블로그를 복원하는 작업&lt;/p&gt;
 &lt;h2&gt;목적&lt;/h2&gt;
 &lt;ol&gt;
@@ -278,7 +278,7 @@ ghost.io라는 서비스를 거쳐 github pages로 푸시해야 한다는 점이
 5️⃣ 배포&lt;br&gt;
 🔄 처음으로&lt;/p&gt;
 &lt;h2&gt;작업&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://likeraichu.github.io/cycle-review/&quot;&gt;내 블로그 분석&lt;/a&gt;&lt;br&gt;
-&lt;a href=&quot;https://likeraichu.github.io/cycle-design/&quot;&gt;블로그 설계&lt;/a&gt;&lt;br&gt;
-&lt;a href=&quot;https://likeraichu.github.io/cycle-develop/&quot;&gt;개발&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;&lt;a href=&quot;https://tryNlog.github.io/cycle-review/&quot;&gt;내 블로그 분석&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;https://tryNlog.github.io/cycle-design/&quot;&gt;블로그 설계&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;https://tryNlog.github.io/cycle-develop/&quot;&gt;개발&lt;/a&gt;&lt;br&gt;
 &lt;a href=&quot;https://www.notion.so/224cde8a249546b6933789c9a8e35780?pvs=21&quot;&gt;페이지 테스트&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
