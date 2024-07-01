@@ -31,7 +31,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Made by
         {` `}
-        <a href="https://github.com/LikeRaichu">LikeRaichu</a>
+        <a href="https://github.com/tryNlog">tryNlog</a>
       </footer>
     </div>
   )
